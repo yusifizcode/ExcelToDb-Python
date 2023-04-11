@@ -18,3 +18,8 @@
 * Werkzeug==2.0.2
 * xlrd==2.0.1
 * XlsxWriter==3.0.2
+
+## Installing
+```
+pip install -r req.txt
+```
